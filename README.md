@@ -1,6 +1,10 @@
 # real_estate
 
 A new Flutter project.
+Features:
+  user login/signup
+  property management
+  Firebase
 
 ## Getting Started
 
